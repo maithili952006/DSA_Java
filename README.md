@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/maithili952006/DSA_Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/maithili952006/DSA_Java/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/maithili952006/DSA_Java/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maithili952006/DSA_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/maithili952006/DSA_Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/maithili952006/DSA_Java/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/maithili952006/DSA_Java/tree/master/0042-trapping-rain-water) |
 ## Stack
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maithili952006/DSA_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/maithili952006/DSA_Java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
