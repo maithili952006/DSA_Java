@@ -3,54 +3,59 @@ import java.util.*;
 class Solution {
     public int orangesRotting(int[][] grid) {
 
-        Queue<int[]> queue = new LinkedList<>();
-        int fresh = 0;
+        // Brute Force Approach
+
+        int rows = grid.length;
+        int cols = grid[0].length;
         int time = 0;
 
-        int[][] dir = {
-            {-1, 0},
-            {1, 0},
-            {0, -1},
-            {0, 1}
-        };
+        while (true) {
 
-        // Store all rotten oranges and count fresh oranges
-        for (int i = 0; i < grid.length; i++) {
-            for (int j = 0; j < grid[0].length; j++) {
+            boolean changed = false;
 
-                if (grid[i][j] == 2) {
-                    queue.offer(new int[]{i, j});
-                } else if (grid[i][j] == 1) {
-                    fresh++;
+            // Find all rotten oranges
+            for (int i = 0; i < rows; i++) {
+                for (int j = 0; j < cols; j++) {
+
+                    if (grid[i][j] == 2) {
+
+                        // Up
+                        if (i > 0 && grid[i - 1][j] == 1) {
+                            grid[i - 1][j] = 3;
+                            changed = true;
+                        }
+
+                        // Down
+                        if (i < rows - 1 && grid[i + 1][j] == 1) {
+                            grid[i + 1][j] = 3;
+                            changed = true;
+                        }
+
+                        // Left
+                        if (j > 0 && grid[i][j - 1] == 1) {
+                            grid[i][j - 1] = 3;
+                            changed = true;
+                        }
+
+                        // Right
+                        if (j < cols - 1 && grid[i][j + 1] == 1) {
+                            grid[i][j + 1] = 3;
+                            changed = true;
+                        }
+                    }
                 }
             }
-        }
 
-        // Multi-Source BFS
-        while (!queue.isEmpty() && fresh > 0) {
+            // If no orange became rotten, stop
+            if (!changed) {
+                break;
+            }
 
-            int size = queue.size();
-
-            for (int i = 0; i < size; i++) {
-
-                int[] curr = queue.poll();
-                int row = curr[0];
-                int col = curr[1];
-
-                for (int[] d : dir) {
-
-                    int newRow = row + d[0];
-                    int newCol = col + d[1];
-
-                    if (newRow >= 0 &&
-                        newRow < grid.length &&
-                        newCol >= 0 &&
-                        newCol < grid[0].length &&
-                        grid[newRow][newCol] == 1) {
-
-                        grid[newRow][newCol] = 2;
-                        fresh--;
-                        queue.offer(new int[]{newRow, newCol});
+            // Convert all 3's into 2's
+            for (int i = 0; i < rows; i++) {
+                for (int j = 0; j < cols; j++) {
+                    if (grid[i][j] == 3) {
+                        grid[i][j] = 2;
                     }
                 }
             }
@@ -58,6 +63,15 @@ class Solution {
             time++;
         }
 
-        return fresh == 0 ? time : -1;
+        // Check if any fresh orange is left
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                if (grid[i][j] == 1) {
+                    return -1;
+                }
+            }
+        }
+
+        return time;
     }
 }
