@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/maithili952006/DSA_Java/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/maithili952006/DSA_Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/maithili952006/DSA_Java/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
