@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maithili952006/DSA_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maithili952006/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/maithili952006/DSA_Java/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/maithili952006/DSA_Java/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/maithili952006/DSA_Java/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/maithili952006/DSA_Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/maithili952006/DSA_Java/tree/master/0994-rotting-oranges) |
