@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/maithili952006/DSA_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/maithili952006/DSA_Java/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/maithili952006/DSA_Java/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/maithili952006/DSA_Java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/maithili952006/DSA_Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/maithili952006/DSA_Java/tree/master/0242-valid-anagram) |
