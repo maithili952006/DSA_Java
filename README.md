@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/maithili952006/DSA_Java/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/maithili952006/DSA_Java/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/maithili952006/DSA_Java/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/maithili952006/DSA_Java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/maithili952006/DSA_Java/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maithili952006/DSA_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/maithili952006/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/maithili952006/DSA_Java/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/maithili952006/DSA_Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/maithili952006/DSA_Java/tree/master/0994-rotting-oranges) |
 ## Tree
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/maithili952006/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/maithili952006/DSA_Java/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
