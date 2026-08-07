@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/maithili952006/DSA_Java/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/maithili952006/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/maithili952006/DSA_Java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/maithili952006/DSA_Java/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maithili952006/DSA_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/maithili952006/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/maithili952006/DSA_Java/tree/master/0152-maximum-product-subarray) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/maithili952006/DSA_Java/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maithili952006/DSA_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Greedy
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/maithili952006/DSA_Java/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/maithili952006/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/maithili952006/DSA_Java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/maithili952006/DSA_Java/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/maithili952006/DSA_Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/maithili952006/DSA_Java/tree/master/0994-rotting-oranges) |
 ## Tree
