@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/maithili952006/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/maithili952006/DSA_Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maithili952006/DSA_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/maithili952006/DSA_Java/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maithili952006/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/maithili952006/DSA_Java/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/maithili952006/DSA_Java/tree/master/0485-max-consecutive-ones) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/maithili952006/DSA_Java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/maithili952006/DSA_Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/maithili952006/DSA_Java/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/maithili952006/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/maithili952006/DSA_Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/maithili952006/DSA_Java/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/maithili952006/DSA_Java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/maithili952006/DSA_Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/maithili952006/DSA_Java/tree/master/0994-rotting-oranges) |
 ## Tree
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/maithili952006/DSA_Java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/maithili952006/DSA_Java/tree/master/0733-flood-fill) |
 ## Backtracking
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/maithili952006/DSA_Java/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/maithili952006/DSA_Java/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
