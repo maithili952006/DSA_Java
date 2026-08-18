@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/maithili952006/DSA_Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/maithili952006/DSA_Java/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/maithili952006/DSA_Java/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/maithili952006/DSA_Java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/maithili952006/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/maithili952006/DSA_Java/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/maithili952006/DSA_Java/tree/master/0485-max-consecutive-ones) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/maithili952006/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maithili952006/DSA_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/maithili952006/DSA_Java/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/maithili952006/DSA_Java/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/maithili952006/DSA_Java/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/maithili952006/DSA_Java/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/maithili952006/DSA_Java/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/maithili952006/DSA_Java/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/maithili952006/DSA_Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/maithili952006/DSA_Java/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -227,9 +230,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/maithili952006/DSA_Java/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/maithili952006/DSA_Java/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/maithili952006/DSA_Java/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/maithili952006/DSA_Java/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
