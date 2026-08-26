@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/maithili952006/DSA_Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/maithili952006/DSA_Java/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/maithili952006/DSA_Java/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/maithili952006/DSA_Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -268,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/maithili952006/DSA_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/maithili952006/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
