@@ -6,9 +6,9 @@ class Solution {
         do{
             slow = nums[slow];
             fast = nums[nums[fast]];
-        }while(slow != fast);
+        }while(slow != fast);   //to find the meeting point
 
-        slow = nums[0];
+        fast = nums[0];
         while(slow != fast){
             slow = nums[slow];
             fast = nums[fast];
