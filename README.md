@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maithili952006/DSA_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maithili952006/DSA_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/maithili952006/DSA_Java/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/maithili952006/DSA_Java/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/maithili952006/DSA_Java/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/maithili952006/DSA_Java/tree/master/0713-subarray-product-less-than-k) |
@@ -300,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/maithili952006/DSA_Java/tree/master/0845-longest-mountain-in-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/maithili952006/DSA_Java/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
