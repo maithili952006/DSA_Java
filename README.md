@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/maithili952006/DSA_Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/maithili952006/DSA_Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1695-maximum-erasure-value](https://github.com/maithili952006/DSA_Java/tree/master/1695-maximum-erasure-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/maithili952006/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/maithili952006/DSA_Java/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/maithili952006/DSA_Java/tree/master/0645-set-mismatch) |
+| [1695-maximum-erasure-value](https://github.com/maithili952006/DSA_Java/tree/master/1695-maximum-erasure-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/maithili952006/DSA_Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/maithili952006/DSA_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/maithili952006/DSA_Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/maithili952006/DSA_Java/tree/master/1695-maximum-erasure-value) |
 ## Depth-First Search
 |  |
 | ------- |
