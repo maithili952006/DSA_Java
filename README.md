@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/maithili952006/DSA_Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/maithili952006/DSA_Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1695-maximum-erasure-value](https://github.com/maithili952006/DSA_Java/tree/master/1695-maximum-erasure-value) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maithili952006/DSA_Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/maithili952006/DSA_Java/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/maithili952006/DSA_Java/tree/master/0645-set-mismatch) |
 | [1695-maximum-erasure-value](https://github.com/maithili952006/DSA_Java/tree/master/1695-maximum-erasure-value) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maithili952006/DSA_Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/maithili952006/DSA_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/maithili952006/DSA_Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/maithili952006/DSA_Java/tree/master/1695-maximum-erasure-value) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maithili952006/DSA_Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Depth-First Search
 |  |
 | ------- |
