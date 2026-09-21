@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/maithili952006/DSA_Java/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/maithili952006/DSA_Java/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/maithili952006/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/maithili952006/DSA_Java/tree/master/0072-edit-distance) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/maithili952006/DSA_Java/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/maithili952006/DSA_Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/maithili952006/DSA_Java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/maithili952006/DSA_Java/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/maithili952006/DSA_Java/tree/master/0049-group-anagrams) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/maithili952006/DSA_Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/maithili952006/DSA_Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/maithili952006/DSA_Java/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/maithili952006/DSA_Java/tree/master/0046-permutations) |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
