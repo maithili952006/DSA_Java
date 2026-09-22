@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/maithili952006/DSA_Java/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/maithili952006/DSA_Java/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/maithili952006/DSA_Java/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/maithili952006/DSA_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/maithili952006/DSA_Java/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/maithili952006/DSA_Java/tree/master/0645-set-mismatch) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/maithili952006/DSA_Java/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/maithili952006/DSA_Java/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/maithili952006/DSA_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/maithili952006/DSA_Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/maithili952006/DSA_Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/maithili952006/DSA_Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/maithili952006/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/maithili952006/DSA_Java/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/maithili952006/DSA_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/maithili952006/DSA_Java/tree/master/0645-set-mismatch) |
 | [1248-count-number-of-nice-subarrays](https://github.com/maithili952006/DSA_Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/maithili952006/DSA_Java/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/maithili952006/DSA_Java/tree/master/0202-happy-number) |
+| [0523-continuous-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/maithili952006/DSA_Java/tree/master/1248-count-number-of-nice-subarrays) |
 ## Quicksort
 |  |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/maithili952006/DSA_Java/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0523-continuous-subarray-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
