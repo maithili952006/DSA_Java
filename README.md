@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/maithili952006/DSA_Java/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/maithili952006/DSA_Java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/maithili952006/DSA_Java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/maithili952006/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/maithili952006/DSA_Java/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/maithili952006/DSA_Java/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/maithili952006/DSA_Java/tree/master/0496-next-greater-element-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/maithili952006/DSA_Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/maithili952006/DSA_Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/maithili952006/DSA_Java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/maithili952006/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/maithili952006/DSA_Java/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/maithili952006/DSA_Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/maithili952006/DSA_Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/maithili952006/DSA_Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/maithili952006/DSA_Java/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/maithili952006/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/maithili952006/DSA_Java/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/maithili952006/DSA_Java/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0876-middle-of-the-linked-list) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/maithili952006/DSA_Java/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/maithili952006/DSA_Java/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/maithili952006/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/maithili952006/DSA_Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/maithili952006/DSA_Java/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/maithili952006/DSA_Java/tree/master/0713-subarray-product-less-than-k) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/maithili952006/DSA_Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/maithili952006/DSA_Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/maithili952006/DSA_Java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/maithili952006/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/maithili952006/DSA_Java/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/maithili952006/DSA_Java/tree/master/0560-subarray-sum-equals-k) |
