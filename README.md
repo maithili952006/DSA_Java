@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/maithili952006/DSA_Java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/maithili952006/DSA_Java/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/maithili952006/DSA_Java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/maithili952006/DSA_Java/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maithili952006/DSA_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/maithili952006/DSA_Java/tree/master/0035-search-insert-position) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/maithili952006/DSA_Java/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/maithili952006/DSA_Java/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/maithili952006/DSA_Java/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/maithili952006/DSA_Java/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/maithili952006/DSA_Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0022-generate-parentheses) |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/maithili952006/DSA_Java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
