@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/maithili952006/DSA_Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/maithili952006/DSA_Java/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/maithili952006/DSA_Java/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/maithili952006/DSA_Java/tree/master/0686-repeated-string-match) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/maithili952006/DSA_Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -392,4 +393,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/maithili952006/DSA_Java/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/maithili952006/DSA_Java/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/maithili952006/DSA_Java/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/maithili952006/DSA_Java/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/maithili952006/DSA_Java/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
