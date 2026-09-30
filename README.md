@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/maithili952006/DSA_Java/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/maithili952006/DSA_Java/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/maithili952006/DSA_Java/tree/master/0845-longest-mountain-in-array) |
+| [1143-longest-common-subsequence](https://github.com/maithili952006/DSA_Java/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/maithili952006/DSA_Java/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/maithili952006/DSA_Java/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/maithili952006/DSA_Java/tree/master/0686-repeated-string-match) |
+| [1143-longest-common-subsequence](https://github.com/maithili952006/DSA_Java/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/maithili952006/DSA_Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -413,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/maithili952006/DSA_Java/tree/master/0686-repeated-string-match) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/maithili952006/DSA_Java/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
