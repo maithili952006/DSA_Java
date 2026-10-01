@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/maithili952006/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/maithili952006/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/maithili952006/DSA_Java/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/maithili952006/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/maithili952006/DSA_Java/tree/master/0733-flood-fill) |
 ## Backtracking
 |  |
@@ -419,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/maithili952006/DSA_Java/tree/master/1143-longest-common-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/maithili952006/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
