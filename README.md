@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/maithili952006/DSA_Java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/maithili952006/DSA_Java/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/maithili952006/DSA_Java/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/maithili952006/DSA_Java/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/maithili952006/DSA_Java/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maithili952006/DSA_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/maithili952006/DSA_Java/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/maithili952006/DSA_Java/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/maithili952006/DSA_Java/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/maithili952006/DSA_Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/maithili952006/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/maithili952006/DSA_Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
