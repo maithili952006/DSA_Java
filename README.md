@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/maithili952006/DSA_Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/maithili952006/DSA_Java/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/maithili952006/DSA_Java/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/maithili952006/DSA_Java/tree/master/0496-next-greater-element-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/maithili952006/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/maithili952006/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/maithili952006/DSA_Java/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/maithili952006/DSA_Java/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/maithili952006/DSA_Java/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/maithili952006/DSA_Java/tree/master/0733-flood-fill) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maithili952006/DSA_Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/maithili952006/DSA_Java/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/maithili952006/DSA_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/maithili952006/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/maithili952006/DSA_Java/tree/master/0148-sort-list) |
