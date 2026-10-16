@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/maithili952006/DSA_Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/maithili952006/DSA_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/maithili952006/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/maithili952006/DSA_Java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/maithili952006/DSA_Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/maithili952006/DSA_Java/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/maithili952006/DSA_Java/tree/master/0208-implement-trie-prefix-tree) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/maithili952006/DSA_Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/maithili952006/DSA_Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/maithili952006/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/maithili952006/DSA_Java/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/maithili952006/DSA_Java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/maithili952006/DSA_Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0234-palindrome-linked-list) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/maithili952006/DSA_Java/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/maithili952006/DSA_Java/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/maithili952006/DSA_Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/maithili952006/DSA_Java/tree/master/0303-range-sum-query-immutable) |
@@ -493,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/maithili952006/DSA_Java/tree/master/0133-clone-graph) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/maithili952006/DSA_Java/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
