@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/maithili952006/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/maithili952006/DSA_Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/maithili952006/DSA_Java/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/maithili952006/DSA_Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/maithili952006/DSA_Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/maithili952006/DSA_Java/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/maithili952006/DSA_Java/tree/master/0303-range-sum-query-immutable) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/maithili952006/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/maithili952006/DSA_Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/maithili952006/DSA_Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/maithili952006/DSA_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/maithili952006/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/maithili952006/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/maithili952006/DSA_Java/tree/master/0645-set-mismatch) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/maithili952006/DSA_Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maithili952006/DSA_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/maithili952006/DSA_Java/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/maithili952006/DSA_Java/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/maithili952006/DSA_Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/maithili952006/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/maithili952006/DSA_Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/maithili952006/DSA_Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/maithili952006/DSA_Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/maithili952006/DSA_Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/maithili952006/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/maithili952006/DSA_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/maithili952006/DSA_Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/maithili952006/DSA_Java/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/maithili952006/DSA_Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/maithili952006/DSA_Java/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/maithili952006/DSA_Java/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/maithili952006/DSA_Java/tree/master/0645-set-mismatch) |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/maithili952006/DSA_Java/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/maithili952006/DSA_Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/maithili952006/DSA_Java/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/maithili952006/DSA_Java/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/maithili952006/DSA_Java/tree/master/1248-count-number-of-nice-subarrays) |
 ## Quicksort
