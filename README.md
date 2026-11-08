@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maithili952006/DSA_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/maithili952006/DSA_Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maithili952006/DSA_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/maithili952006/DSA_Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/maithili952006/DSA_Java/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/maithili952006/DSA_Java/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/maithili952006/DSA_Java/tree/master/0209-minimum-size-subarray-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/maithili952006/DSA_Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/maithili952006/DSA_Java/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/maithili952006/DSA_Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maithili952006/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/maithili952006/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/maithili952006/DSA_Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/maithili952006/DSA_Java/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/maithili952006/DSA_Java/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/maithili952006/DSA_Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/maithili952006/DSA_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/maithili952006/DSA_Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/maithili952006/DSA_Java/tree/master/0242-valid-anagram) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/maithili952006/DSA_Java/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/maithili952006/DSA_Java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/maithili952006/DSA_Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/maithili952006/DSA_Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/maithili952006/DSA_Java/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/maithili952006/DSA_Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/maithili952006/DSA_Java/tree/master/0229-majority-element-ii) |
@@ -411,11 +415,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maithili952006/DSA_Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/maithili952006/DSA_Java/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/maithili952006/DSA_Java/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maithili952006/DSA_Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/maithili952006/DSA_Java/tree/master/0229-majority-element-ii) |
 ## Pigeonhole Principle
 |  |
