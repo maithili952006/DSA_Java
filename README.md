@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/maithili952006/DSA_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/maithili952006/DSA_Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1695-maximum-erasure-value](https://github.com/maithili952006/DSA_Java/tree/master/1695-maximum-erasure-value) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/maithili952006/DSA_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maithili952006/DSA_Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/maithili952006/DSA_Java/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/maithili952006/DSA_Java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/maithili952006/DSA_Java/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/maithili952006/DSA_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
@@ -563,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/maithili952006/DSA_Java/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/maithili952006/DSA_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
